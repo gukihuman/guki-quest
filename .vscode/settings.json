@@ -1,0 +1,33 @@
+{
+  "prisma.fileWatcher": false,
+  "files.exclude": {
+    ".vscode": true
+  },
+  "workspace.isHidden": false,
+  "folder-path-color.folders": [
+    {
+      "path": "systems",
+      "color": "blue"
+    },
+    {
+      "path": "all-resources",
+      "color": "magenta"
+    },
+    {
+      "path": "assets",
+      "color": "red"
+    },
+    {
+      "path": "database",
+      "color": "cyan"
+    },
+    {
+      "path": "-",
+      "color": "green"
+    },
+    {
+      "path": "source",
+      "color": "yellow"
+    }
+  ]
+}
