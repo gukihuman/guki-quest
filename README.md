@@ -50,3 +50,18 @@ A mod for Titan Quest. Gamepad supported.
 
 - Experience: +50% -> +100%
 - Duration: 60s -> 120s
+
+#### Start conditions:
+
+- Health: 300 -> 100
+- Energy: 300 -> 100
+- Health regeneration: 2 -> 1
+- Energy regeneration: 2 -> 1
+- Gold: 500 -> 0
+
+#### Level Up:
+
+- New attribute points: 2 -> 1
+- Attribute gain: 4 -> 10
+- Health gain: 40 -> 30
+- Energy gain: 40 -> 30
