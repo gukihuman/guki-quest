@@ -1,0 +1,69 @@
+gukiTagMasteryTitle06=Hunting
+gukiTagMasteryBrief06=Hunting
+gukiTagMasteryDescription06=Bow hunting mastery focuses on inflicting piercing damage at maximum range. When a hunter reaches the pinnacle of skill, they find weaknesses in almost any target, even deities.
+
+gukiTagHuntingSkillName01=Archery
+gukiTagHuntingSkillDescription01=The essential skill of a hunter is to wield a bow with exceptional speed and finesse. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName02=Arrow Production
+gukiTagHuntingSkillDescription02=Skillful weight distribution and tip sharpening make the arrows even more deadly. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName03=Bow Improvement
+gukiTagHuntingSkillDescription03=Any bow can be adjusted to perfect balance. The power of shots increases dramatically. Armor practically ceases to matter. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName04=Triple Shot
+gukiTagHuntingSkillDescription04=Mastering a bow to perfection gives you a chance to shoot three arrows at once. No penalty. Each arrow is like an individual shot. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName05=Penetration
+gukiTagHuntingSkillDescription05=Releasing a triple shot the arrows are granted unstoppable force. They will pass through flesh as if it were air. It's almost magical. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName06=Herbalism
+gukiTagHuntingSkillDescription06=Discernment in rare herbs improves body regeneration. Poison is more difficult to get into the organism.
+
+gukiTagHuntingSkillName07=Splendid Blossoms
+gukiTagHuntingSkillDescription07=By delving deeper into the study of beneficial herbs, health is enhanced greatly.
+
+gukiTagHuntingSkillName08=Detect Vulnerability
+gukiTagHuntingSkillDescription08=An experienced hunter can notice a weak spot on the target. Once hit, the target becomes more exposed to subsequent attacks.
+
+gukiTagHuntingSkillName09=Owl Wisdom
+gukiTagHuntingSkillDescription09=By paying special attention to the details in every action, a hunter is able to learn faster.
+
+gukiTagHuntingSkillName10=Crits
+gukiTagHuntingSkillDescription10=It is extremely rare to inflict inscrutable damage, but it is possible. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName11=Excellence
+gukiTagHuntingSkillDescription11=By concentrating intensely, the hunter becomes even more deadly. In addition, they are able to make hits to special nerve points that can petrify many creatures. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName12=Light Feet
+gukiTagHuntingSkillDescription12=The habit of moving on rough terrain allows not getting tired to run even faster. At the same time, it is easier to get evasive in combat.
+
+gukiTagHuntingSkillName13=Dodging
+gukiTagHuntingSkillDescription13=Constant movement and training in fights teaches to dodge hostile attacks.
+
+gukiTagHuntingSkillName14=Trap
+gukiTagHuntingSkillDescription14=Any hunter must be able to immobilize a dangerous creature in time.
+
+gukiTagHuntingSkillName15=Mass Entrapment
+gukiTagHuntingSkillDescription15=Throwing a whole field of traps becomes possible. While enemy snares are easy to escape.
+
+gukiTagHuntingSkillName16=Elemental Sense
+gukiTagHuntingSkillDescription16=Through constant exposure to the wilderness, it becomes possible to feel the magical fabric of the world. A resilience to it emerges.
+
+gukiTagHuntingSkillName17=Might of the Gods
+gukiTagHuntingSkillDescription17=Having traveled the thorny path, the hunter comes close in power to the gods themselves. {^y}{^n}Requires a bow.
+
+gukiTagHuntingSkillName18=Animal Research
+gukiTagHuntingSkillDescription18=Basic knowledge of dangerous animals and their kind.
+
+gukiTagHuntingSkillName19=Awareness of the Undead
+gukiTagHuntingSkillDescription19=In this harsh world, it's almost as easy to stumble upon the undead as it is to run into beasts. Fortunately, you can learn a lot about them.
+
+gukiTagHuntingSkillName20=Knowledge of the Demons
+gukiTagHuntingSkillDescription20=Creatures from the subsurface are extremely dangerous. It is essential to notice their weaknesses.
+
+gukiTagHuntingSkillName21=Insight into the Intangible
+gukiTagHuntingSkillDescription21=Magical beings are connected with the intangible world. Only few are able to understand how to harm such beings.
+
+gukiTagHuntingSkillName22=Vengeance on the Deities
+gukiTagHuntingSkillDescription22=A mortal cannot harm the gods. If someone kills the gods, he becomes a god himself.

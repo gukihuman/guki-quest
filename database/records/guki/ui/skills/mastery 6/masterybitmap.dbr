@@ -1,0 +1,8 @@
+templateName,database\Templates\InGameUI\BitmapUIAware.tpl,
+ActorName,,
+Class,,
+FileDescription,,
+bitmapNames,Images\hunting\main.tex;Images\hunting\main.tex,
+bitmapPositionsX,718;748,
+bitmapPositionsY,31;31,
+rollover,,
