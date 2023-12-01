@@ -63,5 +63,5 @@ A mod for Titan Quest. Gamepad supported.
 
 - New attribute points: 2 -> 1
 - Attribute gain: 4 -> 10
-- Health gain: 40 -> 30
-- Energy gain: 40 -> 30
+- Health gain: 40 -> 50
+- Energy gain: 40 -> 50
